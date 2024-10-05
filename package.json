@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dist/app.js",
     "build": "tsc",
-    "dev": "ts-node src/app.ts",
+    "dev": "npx ts-node src/app.ts",
     "console": "node console.js"
   },
   "keywords": [],
